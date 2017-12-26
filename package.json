@@ -1,0 +1,14 @@
+{
+    "name": "eslint-config-zuzuche",
+    "version": "1.0.0",
+    "description": "租租车ESLint配置",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zuzucheFE/javascript.git"
+    },
+    "homepage": "https://github.com/zuzucheFE/javascript",
+    "license": "MIT",
+    "main": "index.js"
+}
